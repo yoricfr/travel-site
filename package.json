@@ -1,0 +1,27 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "pack1",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "no idea"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoricfr/travel-site.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Yoric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoricfr/travel-site/issues"
+  },
+  "homepage": "https://github.com/yoricfr/travel-site#readme"
+}
